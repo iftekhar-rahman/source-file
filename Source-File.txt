@@ -1,0 +1,7 @@
+Multi-Step jQuery form
+http://www.bestjquery.com/demo/jquery-step-form-wizard/
+http://www.jquery-steps.com/Examples
+
+Bootstrap Hamburger Menu
+https://mdbootstrap.com/docs/jquery/navigation/hamburger-menu/
+https://mdbootstrap.com/docs/jquery/navigation/hamburger-menu/#animations
