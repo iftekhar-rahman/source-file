@@ -9,3 +9,7 @@ https://mdbootstrap.com/docs/jquery/navigation/hamburger-menu/#animations
 To show postcode
 https://web.postcodesoftware.com/sdk-jquery
 https://www.autoaddress.ie/support/developer-centre/jquery-plugin/examples
+
+http://matthew.wagerfield.com/parallax/
+
+https://startbootstrap.com/snippets/video-header/
